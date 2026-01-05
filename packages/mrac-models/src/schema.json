@@ -1,0 +1,13 @@
+{
+  "title": "TruMetrics Asset",
+  "properties": {
+    "little_twin_state": {
+      "type": "object",
+      "properties": {
+        "electrical_inputs": { "type": "object" },
+        "pneumatic_response": { "type": "object" },
+        "thermal_derivation": { "type": "object" }
+      }
+    }
+  }
+}
